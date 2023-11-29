@@ -6,7 +6,7 @@ public class Task_8 {
         for (int o : nums) {
             if (o < 6) {
                 int result = o * 2;
-                System.out.println(result);
+                System.out.print(result + " ");
             }
         }
     }
